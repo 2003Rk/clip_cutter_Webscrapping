@@ -1,0 +1,239 @@
+# ClipScutter Automation Requirements
+# ===================================
+# 
+# Install these packages using: pip install -r requirements.txt
+# For development setup: pip install -r requirements.txt
+
+# Core automation framework
+selenium==4.15.2
+
+# HTTP requests for direct downloads
+requests==2.31.0
+
+# Data manipulation and analysis
+pandas==2.1.3
+
+# Logging enhancements
+colorlog==6.8.0
+
+# Configuration management
+pyyaml==6.0.1
+
+# File handling and path operations
+pathlib2==2.3.7; python_version < '3.4'
+
+# JSON handling (built into Python 3+, but listed for completeness)
+# json - built-in
+
+# CSV handling (built into Python 3+, but listed for completeness)
+# csv - built-in
+
+# Date and time handling
+python-dateutil==2.8.2
+
+# Progress bars for downloads
+tqdm==4.66.1
+
+# Better exception handling and debugging
+rich==13.7.0
+
+# Environment variable management
+python-dotenv==1.0.0
+
+# WebDriver management (optional - for automatic driver management)
+webdriver-manager==4.0.1
+
+# Image processing (for screenshots and error handling)
+Pillow==10.1.0
+
+# Retry mechanisms
+tenacity==8.2.3
+
+# Data validation
+pydantic==2.5.0
+
+# Command line interface (optional)
+click==8.1.7
+
+# Testing framework (for development)
+pytest==7.4.3
+pytest-selenium==4.0.1
+
+# Code formatting and linting (for development)
+black==23.11.0
+flake8==6.1.0
+mypy==1.7.1
+
+# Documentation generation (for development)
+sphinx==7.2.6
+
+# Performance monitoring
+psutil==5.9.6
+
+# Parallel processing
+concurrent-futures==3.1.1; python_version < '3.2'
+
+# URL parsing and manipulation
+urllib3==2.1.0
+
+# File type detection
+python-magic==0.4.27
+
+# Configuration file formats
+toml==0.10.2
+configparser==6.0.0
+
+# Browser automation enhancements
+undetected-chromedriver==3.5.4  # For avoiding detection
+
+# Data serialization
+pickle-mixin==1.0.2
+
+# Memory optimization
+memory-profiler==0.61.0
+
+# System information
+platform-utils==1.0.0
+
+# Cross-platform file operations
+send2trash==1.8.2
+
+# Advanced logging
+structlog==23.2.0
+
+# HTTP session management
+requests-oauthlib==1.3.1
+
+# Async support (for future enhancements)
+aiohttp==3.9.1
+asyncio-throttle==1.0.2
+
+# Database support (for future features)
+sqlite3-utils==3.35.0  # Note: sqlite3 is built-in, this is for utils
+
+# Monitoring and alerting (optional)
+sentry-sdk==1.38.0
+
+# Email notifications (optional)
+smtplib-utils==1.0.0  # Note: smtplib is built-in
+
+# System notifications (optional)
+plyer==2.1.0
+
+# GUI framework (for future GUI version)
+tkinter-utils==0.1.0  # Note: tkinter is built-in
+
+# Command line parsing
+argparse-addons==0.12.0  # Note: argparse is built-in
+
+# Regular expressions (built-in, but enhanced version)
+regex==2023.10.3
+
+# Cryptography (for secure storage)
+cryptography==41.0.8
+
+# File compression
+zipfile-deflate64==0.2.0
+
+# Network utilities
+netaddr==0.9.0
+
+# Time zone handling
+pytz==2023.3.post1
+
+# UUID generation (built-in, but enhanced)
+shortuuid==1.0.11
+
+# Hash functions
+hashlib-compat==1.0.1
+
+# Base64 encoding/decoding utilities
+base64-utils==1.0.0
+
+# JSON schema validation
+jsonschema==4.20.0
+
+# XML processing (for future web scraping enhancements)
+lxml==4.9.3
+beautifulsoup4==4.12.2
+
+# HTTP caching
+requests-cache==1.1.1
+
+# Rate limiting
+ratelimit==2.2.1
+
+# Backup and restore utilities
+backup-utils==1.0.0
+
+# Version control integration
+gitpython==3.1.40
+
+# Process management
+supervisor==4.2.5
+
+# Configuration validation
+cerberus==1.3.5
+
+# Template engine (for report generation)
+jinja2==3.1.2
+
+# Markdown processing (for documentation)
+markdown==3.5.1
+
+# PDF generation (for reports)
+reportlab==4.0.7
+
+# Excel file handling (for advanced CSV features)
+openpyxl==3.1.2
+xlsxwriter==3.1.9
+
+# Calendar and scheduling
+schedule==1.2.1
+
+# System monitoring
+psutil==5.9.6
+
+# Memory management
+gc-utils==1.0.0
+
+# Signal handling
+signal-utils==1.0.0
+
+# Context managers
+contextlib2==21.6.0
+
+# Iterator utilities
+more-itertools==10.1.0
+
+# Functional programming utilities
+toolz==0.12.0
+
+# Debugging utilities
+pdb-utils==1.0.0
+icecream==2.1.3
+
+# Performance profiling
+line-profiler==4.1.1
+
+# Static code analysis
+bandit==1.7.5
+safety==2.3.5
+
+# Code coverage (for testing)
+coverage==7.3.2
+
+# Mock objects (for testing)
+responses==0.24.1
+
+# Fixtures (for testing)
+factory-boy==3.3.0
+
+# Property-based testing
+hypothesis==6.88.4
+
+# Load testing
+locust==2.17.0
+
+# API testing
+requests-mock==1.11.0

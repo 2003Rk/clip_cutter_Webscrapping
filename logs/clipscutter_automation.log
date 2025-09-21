@@ -1,0 +1,2055 @@
+2025-09-20 21:45:31 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-20 21:45:31 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-20 21:45:31 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-20 21:45:31 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-20 21:45:31 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-20 21:45:31 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-20 21:45:41 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-20 21:45:41 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-20 21:45:41 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-20 21:45:41 - ClipScutterAutomation - INFO - Setting up premium trial account...
+2025-09-20 21:46:34 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-20 21:46:34 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 21:46:34 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-20 21:46:34 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 21:46:34 - ClipScutterAutomation - INFO - Total execution time: 63.24 seconds (1.1 minutes)
+2025-09-20 21:46:34 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-20 21:46:34 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-20 21:46:34 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-20 21:46:34 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-20 21:46:34 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-20 21:46:34 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-20 21:46:34 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-20 21:46:34 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-20 21:46:34 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 21:46:34 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-20 21:48:43 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-20 21:48:43 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-20 21:48:43 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-20 21:48:43 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-20 21:48:43 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-20 21:48:43 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-20 21:50:33 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-20 21:50:33 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 21:50:33 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-20 21:50:33 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 21:50:33 - ClipScutterAutomation - INFO - Total execution time: 110.10 seconds (1.8 minutes)
+2025-09-20 21:50:33 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-20 21:50:33 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-20 21:50:33 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-20 21:50:33 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-20 21:50:33 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-20 21:50:33 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-20 21:50:33 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-20 21:50:33 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-20 21:50:33 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 21:53:02 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-20 21:53:02 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-20 21:53:02 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-20 21:53:02 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-20 21:53:02 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-20 21:53:02 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-20 21:53:02 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-20 21:53:04 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-20 21:53:04 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-20 21:53:04 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-20 21:53:08 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-20 21:53:08 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-20 21:53:08 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-20 21:53:08 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-20 21:53:08 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-20 21:55:39 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-20 21:56:32 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 1/8
+2025-09-20 21:56:34 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-20 21:57:27 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 2/8
+2025-09-20 21:57:29 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-20 21:58:22 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 3/8
+2025-09-20 21:58:24 - ClipScutterAutomation - INFO -   Creating clip 4/8: 00:35:47-00:36:07
+2025-09-20 21:59:16 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 4/8
+2025-09-20 21:59:18 - ClipScutterAutomation - INFO -   Creating clip 5/8: 00:36:54-00:37:17
+2025-09-20 22:00:11 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 5/8
+2025-09-20 22:00:13 - ClipScutterAutomation - INFO -   Creating clip 6/8: 00:39:05-00:39:25
+2025-09-20 22:01:06 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 6/8
+2025-09-20 22:01:08 - ClipScutterAutomation - INFO -   Creating clip 7/8: 00:45:14-00:45:34
+2025-09-20 22:01:41 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-20 22:01:41 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 22:01:41 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-20 22:01:41 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 22:01:41 - ClipScutterAutomation - INFO - Total execution time: 519.22 seconds (8.7 minutes)
+2025-09-20 22:01:41 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-20 22:01:41 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-20 22:01:41 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-20 22:01:41 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-20 22:01:41 - ClipScutterAutomation - INFO - Failed clips: 6
+2025-09-20 22:01:41 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-20 22:01:41 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-20 22:01:41 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-20 22:01:41 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 22:01:41 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-20 22:02:06 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-20 22:02:06 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-20 22:02:06 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-20 22:02:06 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-20 22:02:06 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-20 22:02:06 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-20 22:02:06 - ClipScutterAutomation - INFO - Running in headless mode
+2025-09-20 22:02:06 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-20 22:02:08 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-20 22:02:08 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-20 22:02:08 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-20 22:02:11 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-20 22:02:11 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-20 22:02:11 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-20 22:02:11 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-20 22:02:11 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-20 22:02:49 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-20 22:02:49 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 22:02:49 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-20 22:02:49 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 22:02:49 - ClipScutterAutomation - INFO - Total execution time: 42.77 seconds (0.7 minutes)
+2025-09-20 22:02:49 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-20 22:02:49 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-20 22:02:49 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-20 22:02:49 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-20 22:02:49 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-20 22:02:49 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-20 22:02:49 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-20 22:02:49 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-20 22:02:49 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 22:02:49 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-20 22:04:37 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-20 22:04:37 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-20 22:04:37 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-20 22:04:37 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-20 22:04:37 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-20 22:04:37 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-20 22:04:37 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-20 22:04:39 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-20 22:04:39 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-20 22:04:39 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-20 22:04:43 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-20 22:04:43 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-20 22:04:43 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-20 22:04:43 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-20 22:04:43 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-20 22:07:13 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-20 22:08:06 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 1/8
+2025-09-20 22:08:08 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-20 22:09:01 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 2/8
+2025-09-20 22:09:03 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-20 22:09:09 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-20 22:09:09 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 22:09:09 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-20 22:09:09 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 22:09:09 - ClipScutterAutomation - INFO - Total execution time: 271.58 seconds (4.5 minutes)
+2025-09-20 22:09:09 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-20 22:09:09 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-20 22:09:09 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-20 22:09:09 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-20 22:09:09 - ClipScutterAutomation - INFO - Failed clips: 2
+2025-09-20 22:09:09 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-20 22:09:09 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-20 22:09:09 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-20 22:09:09 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 22:09:09 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-20 22:20:26 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-20 22:20:26 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-20 22:20:26 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-20 22:20:26 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-20 22:20:26 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-20 22:20:26 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-20 22:20:26 - ClipScutterAutomation - INFO - Running in headless mode
+2025-09-20 22:20:26 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-20 22:20:28 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-20 22:20:28 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-20 22:20:28 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-20 22:20:31 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-20 22:20:31 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-20 22:20:31 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-20 22:20:31 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-20 22:20:31 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-20 22:21:57 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-20 22:25:55 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-20 22:25:57 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-20 22:26:49 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 2/8
+2025-09-20 22:26:51 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-20 22:27:43 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 3/8
+2025-09-20 22:27:45 - ClipScutterAutomation - INFO -   Creating clip 4/8: 00:35:47-00:36:07
+2025-09-20 22:28:37 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 4/8
+2025-09-20 22:28:39 - ClipScutterAutomation - INFO -   Creating clip 5/8: 00:36:54-00:37:17
+2025-09-20 22:29:31 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 5/8
+2025-09-20 22:29:33 - ClipScutterAutomation - INFO -   Creating clip 6/8: 00:39:05-00:39:25
+2025-09-20 22:30:25 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 6/8
+2025-09-20 22:30:27 - ClipScutterAutomation - INFO -   Creating clip 7/8: 00:45:14-00:45:34
+2025-09-20 22:31:19 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 7/8
+2025-09-20 22:31:21 - ClipScutterAutomation - INFO -   Creating clip 8/8: 00:47:35-00:47:55
+2025-09-20 22:32:13 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 8/8
+2025-09-20 22:32:15 - ClipScutterAutomation - INFO - Completed URL 1/2: 1/8 clips created
+2025-09-20 22:32:15 - ClipScutterAutomation - INFO - Processing URL 2/2: https://youtu.be/skVd7mI6MQU
+2025-09-20 22:32:15 - ClipScutterAutomation - INFO -   18 clips to create
+2025-09-20 22:32:15 - ClipScutterAutomation - INFO - Loading new YouTube URL - returning to homepage
+2025-09-20 22:33:45 - ClipScutterAutomation - INFO -   Creating clip 1/18: 00:11:29-00:11:51
+2025-09-20 22:37:43 - ClipScutterAutomation - INFO -   ✓ Clip 1/18 created successfully
+2025-09-20 22:37:45 - ClipScutterAutomation - INFO -   Creating clip 2/18: 00:12:10-00:12:38
+2025-09-20 22:38:37 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 2/18
+2025-09-20 22:38:39 - ClipScutterAutomation - INFO -   Creating clip 3/18: 00:18:08-00:18:28
+2025-09-20 22:39:31 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 3/18
+2025-09-20 22:39:33 - ClipScutterAutomation - INFO -   Creating clip 4/18: 00:18:50-00:19:10
+2025-09-20 22:40:25 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 4/18
+2025-09-20 22:40:27 - ClipScutterAutomation - INFO -   Creating clip 5/18: 00:25:25-00:25:45
+2025-09-20 22:41:19 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 5/18
+2025-09-20 22:41:21 - ClipScutterAutomation - INFO -   Creating clip 6/18: 00:27:04-00:27:24
+2025-09-20 22:42:13 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 6/18
+2025-09-20 22:42:15 - ClipScutterAutomation - INFO -   Creating clip 7/18: 00:31:30-00:31:50
+2025-09-20 22:43:08 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 7/18
+2025-09-20 22:43:10 - ClipScutterAutomation - INFO -   Creating clip 8/18: 00:34:17-00:34:48
+2025-09-20 22:44:02 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 8/18
+2025-09-20 22:44:04 - ClipScutterAutomation - INFO -   Creating clip 9/18: 00:36:19-00:36:39
+2025-09-20 22:44:56 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 9/18
+2025-09-20 22:44:58 - ClipScutterAutomation - INFO -   Creating clip 10/18: 00:39:21-00:39:41
+2025-09-20 22:45:50 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 10/18
+2025-09-20 22:45:52 - ClipScutterAutomation - INFO -   Creating clip 11/18: 00:42:04-00:42:24
+2025-09-20 22:46:44 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 11/18
+2025-09-20 22:46:46 - ClipScutterAutomation - INFO -   Creating clip 12/18: 00:43:39-00:44:01
+2025-09-20 22:47:38 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 12/18
+2025-09-20 22:47:40 - ClipScutterAutomation - INFO -   Creating clip 13/18: 01:01:00-01:01:20
+2025-09-20 22:48:32 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 13/18
+2025-09-20 22:48:34 - ClipScutterAutomation - INFO -   Creating clip 14/18: 01:04:15-01:04:42
+2025-09-20 22:49:26 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 14/18
+2025-09-20 22:49:28 - ClipScutterAutomation - INFO -   Creating clip 15/18: 01:06:22-01:06:42
+2025-09-20 22:50:20 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 15/18
+2025-09-20 22:50:22 - ClipScutterAutomation - INFO -   Creating clip 16/18: 01:14:27-01:14:47
+2025-09-20 22:51:14 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 16/18
+2025-09-20 22:51:16 - ClipScutterAutomation - INFO -   Creating clip 17/18: 01:16:09-01:16:38
+2025-09-20 22:52:09 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 17/18
+2025-09-20 22:52:11 - ClipScutterAutomation - INFO -   Creating clip 18/18: 01:16:45-01:17:05
+2025-09-20 22:53:03 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 18/18
+2025-09-20 22:53:05 - ClipScutterAutomation - INFO - Completed URL 2/2: 1/18 clips created
+2025-09-20 22:53:05 - ClipScutterAutomation - INFO - Clip creation completed: 2/26 clips created
+2025-09-20 22:53:05 - ClipScutterAutomation - INFO - Starting clip download process...
+2025-09-20 22:54:39 - ClipScutterAutomation - INFO - Download completed: 0/0 clips downloaded
+2025-09-20 22:54:39 - ClipScutterAutomation - INFO - Automation completed successfully!
+2025-09-20 22:54:39 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 22:54:39 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-20 22:54:39 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 22:54:39 - ClipScutterAutomation - INFO - Total execution time: 2053.82 seconds (34.2 minutes)
+2025-09-20 22:54:39 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-20 22:54:39 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-20 22:54:39 - ClipScutterAutomation - INFO - Clips created successfully: 2
+2025-09-20 22:54:39 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-20 22:54:39 - ClipScutterAutomation - INFO - Failed clips: 24
+2025-09-20 22:54:39 - ClipScutterAutomation - INFO - Success rate: 7.7%
+2025-09-20 22:54:39 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-20 22:54:39 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-20 22:54:39 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 22:54:40 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-20 23:02:50 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-20 23:02:50 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-20 23:02:50 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-20 23:02:50 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-20 23:02:50 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-20 23:02:50 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-20 23:02:50 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-20 23:02:52 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-20 23:02:52 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-20 23:02:52 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-20 23:02:55 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-20 23:02:55 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-20 23:02:55 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-20 23:02:55 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-20 23:02:55 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-20 23:04:22 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-20 23:06:25 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-20 23:06:25 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 23:06:25 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-20 23:06:25 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 23:06:25 - ClipScutterAutomation - INFO - Total execution time: 215.74 seconds (3.6 minutes)
+2025-09-20 23:06:25 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-20 23:06:25 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-20 23:06:25 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-20 23:06:25 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-20 23:06:25 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-20 23:06:25 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-20 23:06:25 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-20 23:06:25 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-20 23:06:25 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 23:06:25 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-20 23:08:06 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-20 23:08:06 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-20 23:08:06 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-20 23:08:06 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-20 23:08:06 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-20 23:08:06 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-20 23:08:06 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-20 23:08:09 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-20 23:08:09 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-20 23:08:09 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-20 23:08:12 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-20 23:08:12 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-20 23:08:12 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-20 23:08:12 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-20 23:08:12 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-20 23:09:18 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-20 23:09:18 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 23:09:18 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-20 23:09:18 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 23:09:18 - ClipScutterAutomation - INFO - Total execution time: 71.65 seconds (1.2 minutes)
+2025-09-20 23:09:18 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-20 23:09:18 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-20 23:09:18 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-20 23:09:18 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-20 23:09:18 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-20 23:09:18 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-20 23:09:18 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-20 23:09:18 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-20 23:09:18 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 23:09:18 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-20 23:18:23 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-20 23:18:23 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-20 23:18:23 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-20 23:18:23 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-20 23:18:23 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-20 23:18:23 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-20 23:18:23 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-20 23:18:26 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-20 23:18:26 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-20 23:18:26 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-20 23:18:29 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-20 23:20:57 - ClipScutterAutomation - INFO - Login successful!
+2025-09-20 23:20:57 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-20 23:20:57 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-20 23:20:57 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-20 23:20:57 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-20 23:20:57 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-20 23:22:24 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-20 23:22:25 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-20 23:22:25 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 23:22:25 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-20 23:22:25 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 23:22:25 - ClipScutterAutomation - INFO - Total execution time: 241.80 seconds (4.0 minutes)
+2025-09-20 23:22:25 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-20 23:22:25 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-20 23:22:25 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-20 23:22:25 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-20 23:22:25 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-20 23:22:25 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-20 23:22:25 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-20 23:22:25 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-20 23:22:25 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 23:22:25 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-20 23:26:08 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-20 23:26:08 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-20 23:26:08 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-20 23:26:08 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-20 23:26:08 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-20 23:26:08 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-20 23:26:08 - ClipScutterAutomation - INFO - Running in headless mode
+2025-09-20 23:26:08 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-20 23:26:09 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-20 23:26:09 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-20 23:26:09 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-20 23:26:13 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-20 23:27:45 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-20 23:27:45 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 23:27:45 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-20 23:27:45 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 23:27:45 - ClipScutterAutomation - INFO - Total execution time: 97.28 seconds (1.6 minutes)
+2025-09-20 23:27:45 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-20 23:27:45 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-20 23:27:45 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-20 23:27:45 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-20 23:27:45 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-20 23:27:45 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-20 23:27:45 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-20 23:27:45 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-20 23:27:45 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 23:27:45 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-20 23:32:25 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-20 23:32:25 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-20 23:32:25 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-20 23:32:25 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-20 23:32:25 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-20 23:32:25 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-20 23:32:25 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-20 23:32:25 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-20 23:32:27 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-20 23:32:27 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-20 23:32:27 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-20 23:32:31 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-20 23:34:59 - ClipScutterAutomation - INFO - Login successful!
+2025-09-20 23:34:59 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-20 23:34:59 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-20 23:34:59 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-20 23:34:59 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-20 23:34:59 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-20 23:36:09 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-20 23:40:06 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-20 23:40:08 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-20 23:44:10 - ClipScutterAutomation - INFO -   ✓ Clip 2/8 created successfully
+2025-09-20 23:44:12 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-20 23:48:14 - ClipScutterAutomation - INFO -   ✓ Clip 3/8 created successfully
+2025-09-20 23:48:16 - ClipScutterAutomation - INFO -   Creating clip 4/8: 00:35:47-00:36:07
+2025-09-20 23:52:18 - ClipScutterAutomation - INFO -   ✓ Clip 4/8 created successfully
+2025-09-20 23:52:20 - ClipScutterAutomation - INFO -   Creating clip 5/8: 00:36:54-00:37:17
+2025-09-20 23:53:37 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-20 23:53:37 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 23:53:37 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-20 23:53:37 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 23:53:37 - ClipScutterAutomation - INFO - Total execution time: 1271.81 seconds (21.2 minutes)
+2025-09-20 23:53:37 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-20 23:53:37 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-20 23:53:37 - ClipScutterAutomation - INFO - Clips created successfully: 4
+2025-09-20 23:53:37 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-20 23:53:37 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-20 23:53:37 - ClipScutterAutomation - INFO - Success rate: 15.4%
+2025-09-20 23:53:37 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-20 23:53:37 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-20 23:53:37 - ClipScutterAutomation - INFO - ============================================================
+2025-09-20 23:53:37 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-20 23:54:52 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-20 23:54:52 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-20 23:54:52 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-20 23:54:52 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-20 23:54:52 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-20 23:54:52 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-20 23:54:52 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-20 23:54:52 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-20 23:54:54 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-20 23:54:54 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-20 23:54:54 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-20 23:54:57 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-20 23:57:25 - ClipScutterAutomation - INFO - Login successful!
+2025-09-20 23:57:25 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-20 23:57:25 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-20 23:57:25 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-20 23:57:25 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-20 23:57:25 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-20 23:58:35 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 00:01:50 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 00:01:50 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 00:01:50 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 00:01:51 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 00:01:51 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 00:01:51 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 00:01:51 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 00:01:51 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 00:01:55 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 00:01:55 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 00:01:55 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 00:01:59 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 00:02:31 - ClipScutterAutomation - ERROR - Login failed
+2025-09-21 00:02:31 - ClipScutterAutomation - ERROR - Login failed - cannot continue
+2025-09-21 00:02:31 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:02:31 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 00:02:31 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:02:31 - ClipScutterAutomation - INFO - Total execution time: 40.87 seconds (0.7 minutes)
+2025-09-21 00:02:31 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 00:02:31 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 00:02:31 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 00:02:31 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 00:02:31 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 00:02:31 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 00:02:31 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 00:02:31 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 00:02:31 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:02:31 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 00:02:44 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 00:02:44 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 00:02:44 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 00:02:44 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 00:02:44 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 00:02:44 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 00:02:44 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 00:02:44 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 00:02:47 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 00:02:47 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 00:02:47 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 00:02:50 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 00:05:18 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 00:05:18 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 00:05:18 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 00:05:18 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 00:05:18 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 00:05:18 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 00:06:28 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 00:08:33 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 00:08:33 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:08:33 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 00:08:33 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:08:33 - ClipScutterAutomation - INFO - Total execution time: 348.28 seconds (5.8 minutes)
+2025-09-21 00:08:33 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 00:08:33 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 00:08:33 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 00:08:33 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 00:08:33 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 00:08:33 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 00:08:33 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 00:08:33 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 00:08:33 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:08:33 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 00:13:01 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 00:13:01 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 00:13:01 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 00:13:01 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 00:13:01 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 00:13:01 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 00:13:01 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 00:13:01 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - Total execution time: 4.52 seconds (0.1 minutes)
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:13:05 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 00:33:12 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 00:33:12 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 00:33:12 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 00:33:12 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 00:33:12 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 00:33:12 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 00:33:12 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 00:33:12 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 00:33:15 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 00:33:15 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 00:33:15 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 00:33:18 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 00:35:46 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 00:35:46 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 00:35:46 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 00:35:46 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 00:35:46 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 00:35:46 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 00:36:56 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 00:39:29 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 00:39:29 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:39:29 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 00:39:29 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:39:29 - ClipScutterAutomation - INFO - Total execution time: 377.14 seconds (6.3 minutes)
+2025-09-21 00:39:29 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 00:39:29 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 00:39:29 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 00:39:29 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 00:39:29 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 00:39:29 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 00:39:29 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 00:39:29 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 00:39:29 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:39:29 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 00:39:30 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 00:39:30 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 00:39:30 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 00:39:30 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 00:39:30 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 00:39:30 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 00:39:30 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 00:39:30 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 00:39:32 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 00:39:32 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 00:39:32 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 00:39:35 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Total execution time: 82.05 seconds (1.4 minutes)
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 00:40:52 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 00:40:54 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 00:40:54 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 00:40:54 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 00:40:57 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 00:43:25 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 00:43:25 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 00:43:25 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 00:43:25 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 00:43:25 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 00:43:25 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 00:44:35 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 00:46:39 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 00:46:39 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:46:39 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 00:46:39 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:46:39 - ClipScutterAutomation - INFO - Total execution time: 347.25 seconds (5.8 minutes)
+2025-09-21 00:46:39 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 00:46:39 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 00:46:39 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 00:46:39 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 00:46:39 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 00:46:39 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 00:46:39 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 00:46:39 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 00:46:39 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 00:46:39 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 00:48:55 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 00:48:55 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 00:48:55 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 00:48:55 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 00:48:55 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 00:48:55 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 00:48:55 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 00:48:55 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 00:48:58 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 00:48:58 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 00:48:58 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 00:49:01 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 00:51:29 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 00:51:29 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 00:51:29 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 00:51:29 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 00:51:29 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 00:51:29 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 00:52:49 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 00:55:17 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 00:55:17 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 00:55:17 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 00:55:17 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 00:55:17 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 00:55:17 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 00:55:17 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 00:55:17 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 00:55:20 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 00:55:20 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 00:55:20 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 00:55:23 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 00:57:52 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 00:57:52 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 00:57:52 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 00:57:52 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 00:57:52 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 00:57:52 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 00:59:02 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 01:01:07 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 01:01:07 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 01:01:07 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 01:01:07 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 01:01:07 - ClipScutterAutomation - INFO - Total execution time: 349.32 seconds (5.8 minutes)
+2025-09-21 01:01:07 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 01:01:07 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 01:01:07 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 01:01:07 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 01:01:07 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 01:01:07 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 01:01:07 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 01:01:07 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 01:01:07 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 01:01:07 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 01:01:59 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 01:01:59 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 01:01:59 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 01:01:59 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 01:01:59 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 01:01:59 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 01:01:59 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 01:01:59 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 01:02:02 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 01:02:02 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 01:02:02 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 01:02:05 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 01:04:33 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 01:04:33 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 01:04:33 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 01:04:33 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 01:04:33 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 01:04:33 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 01:05:43 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 01:08:50 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 01:08:50 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 01:08:50 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 01:08:50 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 01:08:50 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 01:08:50 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 01:08:50 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 01:08:50 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 01:08:52 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 01:08:52 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 01:08:52 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 01:08:54 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 01:08:54 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 01:08:54 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 01:08:54 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 01:08:54 - ClipScutterAutomation - INFO - Total execution time: 4.51 seconds (0.1 minutes)
+2025-09-21 01:08:54 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 01:08:54 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 01:08:54 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 01:08:54 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 01:08:54 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 01:08:54 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 01:08:54 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 01:08:54 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 01:08:54 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 01:08:54 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 01:09:03 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 01:09:03 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 01:09:03 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 01:09:03 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 01:09:03 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 01:09:03 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 01:09:03 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 01:09:03 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 01:09:05 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 01:09:05 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 01:09:05 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 01:09:08 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 01:11:36 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 01:11:36 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 01:11:36 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 01:11:36 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 01:11:36 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 01:11:36 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 01:12:46 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 01:15:11 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 01:15:11 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 01:15:11 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 01:15:11 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 01:15:11 - ClipScutterAutomation - INFO - Total execution time: 368.12 seconds (6.1 minutes)
+2025-09-21 01:15:11 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 01:15:11 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 01:15:11 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 01:15:11 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 01:15:11 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 01:15:11 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 01:15:11 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 01:15:11 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 01:15:11 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 01:15:11 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 01:16:56 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 01:16:56 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 01:16:56 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 01:16:56 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 01:16:56 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 01:16:56 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 01:16:56 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 01:16:56 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 01:16:58 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 01:16:58 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 01:16:58 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 01:17:01 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 01:19:29 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 01:19:29 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 01:19:29 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 01:19:29 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 01:19:29 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 01:19:29 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 01:20:39 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 02:08:19 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 02:08:19 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 02:08:19 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 02:08:19 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 02:08:19 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 02:08:19 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 02:08:19 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 02:08:19 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 02:08:21 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 02:08:21 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 02:08:21 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 02:08:25 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 02:09:09 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 02:09:09 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 02:09:09 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 02:09:09 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 02:09:09 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 02:09:09 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 02:09:09 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 02:09:09 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 02:09:11 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 02:09:11 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 02:09:11 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 02:09:14 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 02:11:39 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 02:11:39 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 02:11:39 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 02:11:39 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 02:11:39 - ClipScutterAutomation - INFO - Total execution time: 150.12 seconds (2.5 minutes)
+2025-09-21 02:11:39 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 02:11:39 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 02:11:39 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 02:11:39 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 02:11:39 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 02:11:39 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 02:11:39 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 02:11:39 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 02:11:39 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 02:11:39 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 02:18:51 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 02:18:51 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 02:18:51 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 02:18:51 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 02:18:51 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 02:18:51 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 02:18:51 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 02:18:51 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 02:18:53 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 02:18:53 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 02:18:53 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 02:19:00 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 02:21:37 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 02:21:37 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 02:21:37 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 02:21:37 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 02:21:37 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 02:21:37 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 02:22:37 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 02:24:57 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 02:24:57 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 02:24:57 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 02:24:57 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 02:24:57 - ClipScutterAutomation - INFO - Total execution time: 365.61 seconds (6.1 minutes)
+2025-09-21 02:24:57 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 02:24:57 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 02:24:57 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 02:24:57 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 02:24:57 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 02:24:57 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 02:24:57 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 02:24:57 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 02:24:57 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 02:24:57 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 02:28:36 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 02:28:36 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 02:28:36 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 02:28:36 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 02:28:36 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 02:28:36 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 02:28:36 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 02:28:36 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 02:28:38 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 02:28:38 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 02:28:38 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 02:28:40 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 02:28:40 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 02:28:40 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 02:28:40 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 02:28:40 - ClipScutterAutomation - INFO - Total execution time: 4.04 seconds (0.1 minutes)
+2025-09-21 02:28:40 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 02:28:40 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 02:28:40 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 02:28:40 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 02:28:40 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 02:28:40 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 02:28:40 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 02:28:40 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 02:28:40 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 02:28:40 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 02:31:30 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 02:31:30 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 02:31:30 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 02:31:30 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 02:31:30 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 02:31:30 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 02:31:30 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 02:31:30 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 02:31:32 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 02:31:32 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 02:31:32 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 02:31:32 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 02:31:34 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 02:31:34 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 02:32:49 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 02:32:49 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 02:32:50 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 02:32:50 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 02:32:50 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 02:32:50 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 02:32:50 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 02:33:50 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 02:36:31 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 02:36:31 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 02:39:12 - ClipScutterAutomation - INFO -   ✓ Clip 2/8 created successfully
+2025-09-21 02:39:13 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-21 02:39:33 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 02:39:33 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 02:39:33 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 02:39:33 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 02:39:33 - ClipScutterAutomation - INFO - Total execution time: 483.56 seconds (8.1 minutes)
+2025-09-21 02:39:33 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 02:39:33 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 02:39:33 - ClipScutterAutomation - INFO - Clips created successfully: 2
+2025-09-21 02:39:33 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 02:39:33 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 02:39:33 - ClipScutterAutomation - INFO - Success rate: 7.7%
+2025-09-21 02:39:33 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 02:39:33 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 02:39:33 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 02:39:33 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 02:39:35 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 02:39:35 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 02:39:35 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 02:39:35 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 02:39:35 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 02:39:35 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 02:39:35 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 02:39:35 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 02:39:37 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 02:39:37 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 02:39:37 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 02:39:37 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 02:39:39 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 02:39:39 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 02:40:54 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 02:40:54 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 02:40:55 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 02:40:55 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 02:40:55 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 02:40:55 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 02:40:55 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 02:41:56 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 02:41:57 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 02:41:57 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 02:41:58 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 2/8
+2025-09-21 02:41:58 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-21 02:41:58 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 3/8
+2025-09-21 02:41:59 - ClipScutterAutomation - INFO -   Creating clip 4/8: 00:35:47-00:36:07
+2025-09-21 02:41:59 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 4/8
+2025-09-21 02:41:59 - ClipScutterAutomation - INFO -   Creating clip 5/8: 00:36:54-00:37:17
+2025-09-21 02:42:00 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 5/8
+2025-09-21 02:42:00 - ClipScutterAutomation - INFO -   Creating clip 6/8: 00:39:05-00:39:25
+2025-09-21 02:42:00 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 6/8
+2025-09-21 02:42:01 - ClipScutterAutomation - INFO -   Creating clip 7/8: 00:45:14-00:45:34
+2025-09-21 02:42:01 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 7/8
+2025-09-21 02:42:01 - ClipScutterAutomation - INFO -   Creating clip 8/8: 00:47:35-00:47:55
+2025-09-21 02:42:02 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 8/8
+2025-09-21 02:42:02 - ClipScutterAutomation - INFO - Completed URL 1/2: 1/8 clips created
+2025-09-21 02:42:02 - ClipScutterAutomation - INFO - Processing URL 2/2: https://youtu.be/skVd7mI6MQU
+2025-09-21 02:42:02 - ClipScutterAutomation - INFO -   18 clips to create
+2025-09-21 02:42:02 - ClipScutterAutomation - INFO - Loading new YouTube URL - returning to homepage
+2025-09-21 02:43:03 - ClipScutterAutomation - INFO -   Creating clip 1/18: 00:11:29-00:11:51
+2025-09-21 02:43:04 - ClipScutterAutomation - INFO -   ✓ Clip 1/18 created successfully
+2025-09-21 02:43:05 - ClipScutterAutomation - INFO -   Creating clip 2/18: 00:12:10-00:12:38
+2025-09-21 02:43:05 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 2/18
+2025-09-21 02:43:06 - ClipScutterAutomation - INFO -   Creating clip 3/18: 00:18:08-00:18:28
+2025-09-21 02:43:06 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 3/18
+2025-09-21 02:43:06 - ClipScutterAutomation - INFO -   Creating clip 4/18: 00:18:50-00:19:10
+2025-09-21 02:43:06 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 4/18
+2025-09-21 02:43:07 - ClipScutterAutomation - INFO -   Creating clip 5/18: 00:25:25-00:25:45
+2025-09-21 02:43:07 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 5/18
+2025-09-21 02:43:08 - ClipScutterAutomation - INFO -   Creating clip 6/18: 00:27:04-00:27:24
+2025-09-21 02:43:08 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 6/18
+2025-09-21 02:43:08 - ClipScutterAutomation - INFO -   Creating clip 7/18: 00:31:30-00:31:50
+2025-09-21 02:43:08 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 7/18
+2025-09-21 02:43:09 - ClipScutterAutomation - INFO -   Creating clip 8/18: 00:34:17-00:34:48
+2025-09-21 02:43:09 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 8/18
+2025-09-21 02:43:10 - ClipScutterAutomation - INFO -   Creating clip 9/18: 00:36:19-00:36:39
+2025-09-21 02:43:10 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 9/18
+2025-09-21 02:43:10 - ClipScutterAutomation - INFO -   Creating clip 10/18: 00:39:21-00:39:41
+2025-09-21 02:43:10 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 10/18
+2025-09-21 02:43:11 - ClipScutterAutomation - INFO -   Creating clip 11/18: 00:42:04-00:42:24
+2025-09-21 02:43:11 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 11/18
+2025-09-21 02:43:12 - ClipScutterAutomation - INFO -   Creating clip 12/18: 00:43:39-00:44:01
+2025-09-21 02:43:12 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 12/18
+2025-09-21 02:43:12 - ClipScutterAutomation - INFO -   Creating clip 13/18: 01:01:00-01:01:20
+2025-09-21 02:43:13 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 13/18
+2025-09-21 02:43:13 - ClipScutterAutomation - INFO -   Creating clip 14/18: 01:04:15-01:04:42
+2025-09-21 02:43:13 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 14/18
+2025-09-21 02:43:14 - ClipScutterAutomation - INFO -   Creating clip 15/18: 01:06:22-01:06:42
+2025-09-21 02:43:14 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 15/18
+2025-09-21 02:43:14 - ClipScutterAutomation - INFO -   Creating clip 16/18: 01:14:27-01:14:47
+2025-09-21 02:43:15 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 16/18
+2025-09-21 02:43:15 - ClipScutterAutomation - INFO -   Creating clip 17/18: 01:16:09-01:16:38
+2025-09-21 02:43:15 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 17/18
+2025-09-21 02:43:16 - ClipScutterAutomation - INFO -   Creating clip 18/18: 01:16:45-01:17:05
+2025-09-21 02:43:16 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 18/18
+2025-09-21 02:43:16 - ClipScutterAutomation - INFO - Completed URL 2/2: 1/18 clips created
+2025-09-21 02:43:16 - ClipScutterAutomation - INFO - Clip creation completed: 2/26 clips created
+2025-09-21 02:43:16 - ClipScutterAutomation - INFO - Starting clip download process...
+2025-09-21 02:48:04 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 02:48:04 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 02:48:04 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 02:48:04 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 02:48:04 - ClipScutterAutomation - INFO - Total execution time: 509.76 seconds (8.5 minutes)
+2025-09-21 02:48:04 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 02:48:04 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 02:48:04 - ClipScutterAutomation - INFO - Clips created successfully: 2
+2025-09-21 02:48:04 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 02:48:04 - ClipScutterAutomation - INFO - Failed clips: 24
+2025-09-21 02:48:04 - ClipScutterAutomation - INFO - Success rate: 7.7%
+2025-09-21 02:48:04 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 02:48:04 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 02:48:04 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 02:48:04 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 02:50:20 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 02:50:20 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 02:50:20 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 02:50:20 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 02:50:20 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 02:50:20 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 02:50:20 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 02:50:20 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 02:50:23 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 02:50:23 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 02:50:23 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 02:50:23 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 02:50:25 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 02:50:25 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 02:51:40 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 02:51:40 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 02:51:41 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 02:51:41 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 02:51:41 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 02:51:41 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 02:51:41 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 02:52:42 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 02:52:43 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 02:52:44 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 02:52:44 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 2/8
+2025-09-21 02:52:44 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-21 02:52:45 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 3/8
+2025-09-21 02:52:45 - ClipScutterAutomation - INFO -   Creating clip 4/8: 00:35:47-00:36:07
+2025-09-21 02:52:45 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 4/8
+2025-09-21 02:52:46 - ClipScutterAutomation - INFO -   Creating clip 5/8: 00:36:54-00:37:17
+2025-09-21 02:52:46 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 5/8
+2025-09-21 02:52:46 - ClipScutterAutomation - INFO -   Creating clip 6/8: 00:39:05-00:39:25
+2025-09-21 02:52:47 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 6/8
+2025-09-21 02:52:47 - ClipScutterAutomation - INFO -   Creating clip 7/8: 00:45:14-00:45:34
+2025-09-21 02:52:47 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 7/8
+2025-09-21 02:52:48 - ClipScutterAutomation - INFO -   Creating clip 8/8: 00:47:35-00:47:55
+2025-09-21 02:52:48 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 8/8
+2025-09-21 02:52:48 - ClipScutterAutomation - INFO - Completed URL 1/2: 1/8 clips created
+2025-09-21 02:52:48 - ClipScutterAutomation - INFO - Processing URL 2/2: https://youtu.be/skVd7mI6MQU
+2025-09-21 02:52:48 - ClipScutterAutomation - INFO -   18 clips to create
+2025-09-21 02:52:48 - ClipScutterAutomation - INFO - Loading new YouTube URL - returning to homepage
+2025-09-21 02:53:49 - ClipScutterAutomation - INFO -   Creating clip 1/18: 00:11:29-00:11:51
+2025-09-21 02:53:51 - ClipScutterAutomation - INFO -   ✓ Clip 1/18 created successfully
+2025-09-21 02:53:51 - ClipScutterAutomation - INFO -   Creating clip 2/18: 00:12:10-00:12:38
+2025-09-21 02:53:51 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 2/18
+2025-09-21 02:53:52 - ClipScutterAutomation - INFO -   Creating clip 3/18: 00:18:08-00:18:28
+2025-09-21 02:53:52 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 3/18
+2025-09-21 02:53:52 - ClipScutterAutomation - INFO -   Creating clip 4/18: 00:18:50-00:19:10
+2025-09-21 02:53:53 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 4/18
+2025-09-21 02:53:53 - ClipScutterAutomation - INFO -   Creating clip 5/18: 00:25:25-00:25:45
+2025-09-21 02:53:53 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 5/18
+2025-09-21 02:53:54 - ClipScutterAutomation - INFO -   Creating clip 6/18: 00:27:04-00:27:24
+2025-09-21 02:53:54 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 6/18
+2025-09-21 02:53:54 - ClipScutterAutomation - INFO -   Creating clip 7/18: 00:31:30-00:31:50
+2025-09-21 02:53:55 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 7/18
+2025-09-21 02:53:55 - ClipScutterAutomation - INFO -   Creating clip 8/18: 00:34:17-00:34:48
+2025-09-21 02:53:55 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 8/18
+2025-09-21 02:53:56 - ClipScutterAutomation - INFO -   Creating clip 9/18: 00:36:19-00:36:39
+2025-09-21 02:53:56 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 9/18
+2025-09-21 02:53:56 - ClipScutterAutomation - INFO -   Creating clip 10/18: 00:39:21-00:39:41
+2025-09-21 02:53:57 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 10/18
+2025-09-21 02:53:57 - ClipScutterAutomation - INFO -   Creating clip 11/18: 00:42:04-00:42:24
+2025-09-21 02:53:57 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 11/18
+2025-09-21 02:53:58 - ClipScutterAutomation - INFO -   Creating clip 12/18: 00:43:39-00:44:01
+2025-09-21 02:53:58 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 12/18
+2025-09-21 02:53:59 - ClipScutterAutomation - INFO -   Creating clip 13/18: 01:01:00-01:01:20
+2025-09-21 02:53:59 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 13/18
+2025-09-21 02:53:59 - ClipScutterAutomation - INFO -   Creating clip 14/18: 01:04:15-01:04:42
+2025-09-21 02:54:00 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 14/18
+2025-09-21 02:54:00 - ClipScutterAutomation - INFO -   Creating clip 15/18: 01:06:22-01:06:42
+2025-09-21 02:54:00 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 15/18
+2025-09-21 02:54:01 - ClipScutterAutomation - INFO -   Creating clip 16/18: 01:14:27-01:14:47
+2025-09-21 02:54:01 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 16/18
+2025-09-21 02:54:01 - ClipScutterAutomation - INFO -   Creating clip 17/18: 01:16:09-01:16:38
+2025-09-21 02:54:02 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 17/18
+2025-09-21 02:54:02 - ClipScutterAutomation - INFO -   Creating clip 18/18: 01:16:45-01:17:05
+2025-09-21 02:54:02 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 18/18
+2025-09-21 02:54:03 - ClipScutterAutomation - INFO - Completed URL 2/2: 1/18 clips created
+2025-09-21 02:54:03 - ClipScutterAutomation - INFO - Clip creation completed: 2/26 clips created
+2025-09-21 02:54:03 - ClipScutterAutomation - INFO - Starting clip download process...
+2025-09-21 02:56:59 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 02:56:59 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 02:56:59 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 02:56:59 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 02:56:59 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 02:56:59 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 02:56:59 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 02:56:59 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 02:57:02 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 02:57:02 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 02:57:02 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 02:57:02 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 02:57:05 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 02:57:05 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 02:58:21 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 02:58:21 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 02:58:22 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 02:58:22 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 02:58:22 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 02:58:22 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 02:58:22 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 02:59:22 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 02:59:26 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 02:59:27 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 03:00:03 - ClipScutterAutomation - INFO -   ✓ Clip 2/8 created successfully
+2025-09-21 03:00:04 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-21 03:00:38 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 03:00:38 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 03:00:38 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 03:00:38 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 03:00:38 - ClipScutterAutomation - INFO - Total execution time: 218.48 seconds (3.6 minutes)
+2025-09-21 03:00:38 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 03:00:38 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 03:00:38 - ClipScutterAutomation - INFO - Clips created successfully: 2
+2025-09-21 03:00:38 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 03:00:38 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 03:00:38 - ClipScutterAutomation - INFO - Success rate: 7.7%
+2025-09-21 03:00:38 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 03:00:38 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 03:00:38 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 03:00:38 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 03:03:59 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 03:03:59 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 03:03:59 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 03:03:59 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 03:03:59 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 03:03:59 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 03:03:59 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 03:03:59 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 03:04:03 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 03:04:03 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 03:04:03 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 03:04:03 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 03:04:05 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 03:04:05 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 03:05:20 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 03:05:20 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 03:05:21 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 03:05:21 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 03:05:21 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 03:05:21 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 03:05:21 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 03:06:22 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 03:06:27 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 03:06:28 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 03:07:10 - ClipScutterAutomation - INFO -   ✓ Clip 2/8 created successfully
+2025-09-21 03:07:12 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-21 03:07:19 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 03:07:19 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 03:07:19 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 03:07:19 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 03:07:19 - ClipScutterAutomation - INFO - Total execution time: 199.40 seconds (3.3 minutes)
+2025-09-21 03:07:19 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 03:07:19 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 03:07:19 - ClipScutterAutomation - INFO - Clips created successfully: 2
+2025-09-21 03:07:19 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 03:07:19 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 03:07:19 - ClipScutterAutomation - INFO - Success rate: 7.7%
+2025-09-21 03:07:19 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 03:07:19 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 03:07:19 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 03:07:19 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 03:08:55 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 03:08:55 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 03:08:55 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 03:08:55 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 03:08:55 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 03:08:55 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 03:08:55 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 03:08:55 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 03:09:00 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 03:09:00 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 03:09:00 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 03:09:00 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 03:09:02 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 03:09:02 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 03:10:19 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 03:10:19 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 03:10:20 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 03:10:20 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 03:10:20 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 03:10:20 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 03:10:20 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 03:11:21 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 03:11:25 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 03:11:27 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 03:12:08 - ClipScutterAutomation - INFO -   ✓ Clip 2/8 created successfully
+2025-09-21 03:12:09 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-21 03:12:50 - ClipScutterAutomation - INFO -   ✓ Clip 3/8 created successfully
+2025-09-21 03:12:52 - ClipScutterAutomation - INFO -   Creating clip 4/8: 00:35:47-00:36:07
+2025-09-21 03:13:10 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 03:13:10 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 03:13:10 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 03:13:10 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 03:13:10 - ClipScutterAutomation - INFO - Total execution time: 254.60 seconds (4.2 minutes)
+2025-09-21 03:13:10 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 03:13:10 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 03:13:10 - ClipScutterAutomation - INFO - Clips created successfully: 3
+2025-09-21 03:13:10 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 03:13:10 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 03:13:10 - ClipScutterAutomation - INFO - Success rate: 11.5%
+2025-09-21 03:13:10 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 03:13:10 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 03:13:10 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 03:13:10 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 03:14:56 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 03:14:56 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 03:14:56 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 03:14:56 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 03:14:56 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 03:14:56 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 03:14:56 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 03:14:56 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 03:14:58 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 03:14:58 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 03:14:58 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 03:14:58 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 03:15:00 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 03:15:00 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 03:16:15 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 03:16:15 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 03:16:16 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 03:16:16 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 03:16:16 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 03:16:16 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 03:16:16 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 03:17:17 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 03:20:49 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 03:20:49 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 03:20:49 - ClipScutterAutomation - INFO - Reading CSV file: clip_ranges.csv
+2025-09-21 03:20:49 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 03:20:49 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 03:20:49 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 03:20:49 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 03:20:49 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 03:20:51 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 03:20:51 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 03:20:51 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 03:20:51 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 03:20:53 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 03:20:53 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 03:22:08 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 03:22:08 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 03:22:10 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 03:22:10 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 03:22:10 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 03:22:10 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 03:22:10 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 03:23:10 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 03:25:46 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 03:25:48 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 03:27:21 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 03:27:21 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 03:27:21 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 03:27:21 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 03:27:21 - ClipScutterAutomation - INFO - Total execution time: 392.25 seconds (6.5 minutes)
+2025-09-21 03:27:21 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 03:27:21 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 03:27:21 - ClipScutterAutomation - INFO - Clips created successfully: 1
+2025-09-21 03:27:21 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 03:27:21 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 03:27:21 - ClipScutterAutomation - INFO - Success rate: 3.8%
+2025-09-21 03:27:21 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 03:27:21 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 03:27:21 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 03:27:21 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 03:33:06 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 03:33:06 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 03:33:06 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 03:33:06 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 03:33:06 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 03:33:06 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 03:33:06 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 03:33:06 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 03:33:09 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 03:33:09 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 03:33:09 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 03:33:09 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 03:33:11 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 03:33:11 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 03:34:26 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 03:34:26 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 03:34:27 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 03:34:27 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 03:34:27 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 03:34:27 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 03:34:27 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 03:35:28 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 03:38:04 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 03:38:06 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 03:38:06 - ClipScutterAutomation - INFO -   Going back to homepage for clip 2
+2025-09-21 03:38:07 - ClipScutterAutomation - INFO -   Re-entering YouTube URL for clip 2: https://youtu.be/USOQid7YJ2s
+2025-09-21 03:39:07 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 2/8
+2025-09-21 03:39:09 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-21 03:39:09 - ClipScutterAutomation - INFO -   Going back to homepage for clip 3
+2025-09-21 03:39:10 - ClipScutterAutomation - INFO -   Re-entering YouTube URL for clip 3: https://youtu.be/USOQid7YJ2s
+2025-09-21 03:39:10 - ClipScutterAutomation - ERROR - Failed to re-input YouTube URL for clip 3
+2025-09-21 03:39:10 - ClipScutterAutomation - INFO -   Creating clip 4/8: 00:35:47-00:36:07
+2025-09-21 03:39:10 - ClipScutterAutomation - INFO -   Going back to homepage for clip 4
+2025-09-21 03:39:11 - ClipScutterAutomation - INFO -   Re-entering YouTube URL for clip 4: https://youtu.be/USOQid7YJ2s
+2025-09-21 03:39:11 - ClipScutterAutomation - ERROR - Failed to re-input YouTube URL for clip 4
+2025-09-21 03:39:11 - ClipScutterAutomation - INFO -   Creating clip 5/8: 00:36:54-00:37:17
+2025-09-21 03:39:11 - ClipScutterAutomation - INFO -   Going back to homepage for clip 5
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO -   Re-entering YouTube URL for clip 5: https://youtu.be/USOQid7YJ2s
+2025-09-21 03:39:12 - ClipScutterAutomation - ERROR - Failed to re-input YouTube URL for clip 5
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO -   Creating clip 6/8: 00:39:05-00:39:25
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO -   Going back to homepage for clip 6
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO - Total execution time: 366.41 seconds (6.1 minutes)
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO - Clips created successfully: 1
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO - Failed clips: 4
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO - Success rate: 3.8%
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 03:39:12 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 11:33:48 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 11:33:48 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 11:33:48 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 11:33:48 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 11:33:48 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 11:33:48 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 11:33:48 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 11:33:48 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 11:33:55 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 11:33:55 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 11:33:55 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 11:33:55 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 11:33:57 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 11:33:57 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 11:35:13 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 11:35:13 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 11:35:14 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 11:35:14 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 11:35:14 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 11:35:14 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 11:35:14 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 11:36:15 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 11:38:51 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 11:38:55 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 11:38:55 - ClipScutterAutomation - INFO -   Going back to homepage for clip 2
+2025-09-21 11:38:55 - ClipScutterAutomation - INFO -   Current browser URL: https://www.clipscutter.com/cutter/USOQid7YJ2s
+2025-09-21 11:38:59 - ClipScutterAutomation - INFO -   Re-entering YouTube URL for clip 2: https://youtu.be/USOQid7YJ2s
+2025-09-21 11:40:01 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 11:40:01 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 11:40:01 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 11:40:01 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 11:40:01 - ClipScutterAutomation - INFO - Total execution time: 372.24 seconds (6.2 minutes)
+2025-09-21 11:40:01 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 11:40:01 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 11:40:01 - ClipScutterAutomation - INFO - Clips created successfully: 1
+2025-09-21 11:40:01 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 11:40:01 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 11:40:01 - ClipScutterAutomation - INFO - Success rate: 3.8%
+2025-09-21 11:40:01 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 11:40:01 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 11:40:01 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 11:40:01 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 14:32:06 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 14:32:06 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 14:32:06 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 14:32:06 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 14:32:06 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 14:32:06 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 14:32:06 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 14:32:06 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 14:32:09 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 14:32:09 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 14:32:09 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 14:32:09 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 14:32:11 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 14:32:11 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 14:33:27 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 14:33:27 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 14:33:28 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 14:33:28 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 14:33:28 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 14:33:28 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 14:33:28 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 14:34:28 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 14:37:04 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 14:37:08 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 15:45:21 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 15:45:21 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 15:45:21 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 15:45:21 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 15:45:21 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 15:45:21 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 15:45:21 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 15:45:21 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 15:45:24 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 15:45:24 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 15:45:24 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 15:45:24 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 15:45:24 - ClipScutterAutomation - INFO - Total execution time: 3.02 seconds (0.1 minutes)
+2025-09-21 15:45:24 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 15:45:24 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 15:45:24 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 15:45:24 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 15:45:24 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 15:45:24 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 15:45:24 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 15:45:24 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 15:45:24 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 15:49:13 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 15:49:13 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 15:49:13 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 15:49:13 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 15:49:13 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 15:49:13 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 15:49:13 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 15:49:13 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 15:49:16 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 15:49:16 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 15:49:16 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 15:49:16 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 15:49:18 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 15:49:18 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 15:50:33 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 15:50:33 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 15:50:34 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 15:50:34 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 15:50:34 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 15:50:34 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 15:50:34 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 15:50:59 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 15:53:35 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 15:53:39 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 15:54:29 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 15:54:29 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 15:54:29 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 15:54:29 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 15:54:29 - ClipScutterAutomation - INFO - Total execution time: 315.84 seconds (5.3 minutes)
+2025-09-21 15:54:29 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 15:54:29 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 15:54:29 - ClipScutterAutomation - INFO - Clips created successfully: 1
+2025-09-21 15:54:29 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 15:54:29 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 15:54:29 - ClipScutterAutomation - INFO - Success rate: 3.8%
+2025-09-21 15:54:29 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 15:54:29 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 15:54:29 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 15:54:29 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 15:55:58 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 15:55:58 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 15:55:58 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 15:55:58 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 15:55:58 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 15:55:58 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 15:55:58 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 15:55:58 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 15:56:01 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 15:56:01 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 15:56:01 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 15:56:01 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 15:56:03 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 15:56:03 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 15:57:17 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 15:57:17 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 15:57:18 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 15:57:18 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 15:57:18 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 15:57:18 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 15:57:18 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 15:57:46 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 16:00:23 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 16:00:27 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 16:00:27 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 16:00:27 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 16:00:27 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 16:00:27 - ClipScutterAutomation - INFO - Total execution time: 268.58 seconds (4.5 minutes)
+2025-09-21 16:00:27 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 16:00:27 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 16:00:27 - ClipScutterAutomation - INFO - Clips created successfully: 1
+2025-09-21 16:00:27 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 16:00:27 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 16:00:27 - ClipScutterAutomation - INFO - Success rate: 3.8%
+2025-09-21 16:00:27 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 16:00:27 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 16:00:27 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 16:00:27 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 16:00:37 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 16:00:37 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 16:00:37 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 16:00:37 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 16:00:37 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 16:00:37 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 16:00:37 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 16:00:37 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 16:00:41 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 16:00:41 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 16:00:41 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 16:00:41 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 16:00:42 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 16:00:42 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 16:01:57 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 16:01:57 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 16:01:58 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 16:01:58 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 16:01:58 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 16:01:58 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 16:01:58 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 16:02:21 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 16:04:58 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 16:05:02 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 16:08:44 - ClipScutterAutomation - INFO -   ✓ Clip 2/8 created successfully
+2025-09-21 16:08:48 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-21 16:12:03 - ClipScutterAutomation - INFO -   ✓ Clip 3/8 created successfully
+2025-09-21 16:12:07 - ClipScutterAutomation - INFO -   Creating clip 4/8: 00:35:47-00:36:07
+2025-09-21 16:15:21 - ClipScutterAutomation - INFO -   ✓ Clip 4/8 created successfully
+2025-09-21 16:15:25 - ClipScutterAutomation - INFO -   Creating clip 5/8: 00:36:54-00:37:17
+2025-09-21 16:18:40 - ClipScutterAutomation - INFO -   ✓ Clip 5/8 created successfully
+2025-09-21 16:18:44 - ClipScutterAutomation - INFO -   Creating clip 6/8: 00:39:05-00:39:25
+2025-09-21 16:21:58 - ClipScutterAutomation - INFO -   ✓ Clip 6/8 created successfully
+2025-09-21 16:22:02 - ClipScutterAutomation - INFO -   Creating clip 7/8: 00:45:14-00:45:34
+2025-09-21 16:25:17 - ClipScutterAutomation - INFO -   ✓ Clip 7/8 created successfully
+2025-09-21 16:25:21 - ClipScutterAutomation - INFO -   Creating clip 8/8: 00:47:35-00:47:55
+2025-09-21 16:28:35 - ClipScutterAutomation - INFO -   ✓ Clip 8/8 created successfully
+2025-09-21 16:28:40 - ClipScutterAutomation - INFO - Completed URL 1/2: 8/8 clips created
+2025-09-21 16:28:40 - ClipScutterAutomation - INFO - Processing URL 2/2: https://youtu.be/skVd7mI6MQU
+2025-09-21 16:28:40 - ClipScutterAutomation - INFO -   18 clips to create
+2025-09-21 16:28:40 - ClipScutterAutomation - INFO - Loading new YouTube URL - returning to homepage
+2025-09-21 16:29:05 - ClipScutterAutomation - INFO -   Creating clip 1/18: 00:11:29-00:11:51
+2025-09-21 16:31:42 - ClipScutterAutomation - INFO -   ✓ Clip 1/18 created successfully
+2025-09-21 16:31:46 - ClipScutterAutomation - INFO -   Creating clip 2/18: 00:12:10-00:12:38
+2025-09-21 16:37:21 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 16:37:21 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 16:37:21 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 16:37:21 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 16:37:21 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 16:37:21 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 16:37:21 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 16:37:21 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 16:37:23 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 16:37:23 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 16:37:23 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 16:37:23 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 16:37:26 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 16:37:26 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 16:38:40 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 16:38:40 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 16:38:41 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 16:38:41 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 16:38:41 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 16:38:41 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 16:38:41 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 16:39:04 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 16:41:40 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 16:41:44 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 16:45:24 - ClipScutterAutomation - INFO -   ✓ Clip 2/8 created successfully
+2025-09-21 16:45:28 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-21 16:48:10 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 16:48:10 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 16:48:10 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 16:48:10 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 16:48:10 - ClipScutterAutomation - INFO - Total execution time: 649.25 seconds (10.8 minutes)
+2025-09-21 16:48:10 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 16:48:10 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 16:48:10 - ClipScutterAutomation - INFO - Clips created successfully: 2
+2025-09-21 16:48:10 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 16:48:10 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 16:48:10 - ClipScutterAutomation - INFO - Success rate: 7.7%
+2025-09-21 16:48:10 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 16:48:10 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 16:48:10 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 16:48:10 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 17:02:18 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 17:02:18 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 17:02:18 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 17:02:18 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 17:02:18 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 17:02:18 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 17:02:18 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 17:02:18 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 17:02:20 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 17:02:21 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 17:02:21 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 17:02:21 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 17:02:22 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 17:02:22 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 17:03:37 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 17:03:37 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 17:03:38 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 17:03:38 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 17:03:38 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 17:03:38 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 17:03:38 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 17:03:47 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 17:03:47 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 17:03:47 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 17:03:47 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 17:03:47 - ClipScutterAutomation - INFO - Total execution time: 89.63 seconds (1.5 minutes)
+2025-09-21 17:03:47 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 17:03:47 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 17:03:47 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 17:03:47 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 17:03:47 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 17:03:47 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 17:03:47 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 17:03:47 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 17:03:47 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 17:03:47 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 17:06:44 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 17:06:44 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 17:06:44 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 17:06:44 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 17:06:44 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 17:06:44 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 17:06:44 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 17:06:44 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 17:06:46 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 17:06:46 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 17:06:46 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 17:06:46 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 17:06:48 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 17:06:48 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 17:08:03 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 17:08:03 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 17:08:04 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 17:08:04 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 17:08:04 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 17:08:04 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 17:08:04 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 17:08:19 - ClipScutterAutomation - ERROR - Failed to input YouTube URL: https://youtu.be/USOQid7YJ2s
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - Processing URL 2/2: https://youtu.be/skVd7mI6MQU
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO -   18 clips to create
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - Total execution time: 95.35 seconds (1.6 minutes)
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 17:08:19 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 19:34:21 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 19:34:21 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 19:34:21 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 19:34:21 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 19:34:21 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 19:34:21 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 19:34:21 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 19:34:21 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 19:34:24 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 19:34:24 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 19:34:24 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 19:34:24 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 19:34:26 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 19:34:26 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 19:35:40 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 19:35:40 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 19:35:41 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 19:35:41 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 19:35:41 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 19:35:41 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 19:35:41 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 19:36:05 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 19:38:41 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 19:38:45 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 19:42:27 - ClipScutterAutomation - INFO -   ✓ Clip 2/8 created successfully
+2025-09-21 19:42:31 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 19:42:31 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 19:42:31 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 19:42:31 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 19:42:31 - ClipScutterAutomation - INFO - Total execution time: 489.22 seconds (8.2 minutes)
+2025-09-21 19:42:31 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 19:42:31 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 19:42:31 - ClipScutterAutomation - INFO - Clips created successfully: 2
+2025-09-21 19:42:31 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 19:42:31 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 19:42:31 - ClipScutterAutomation - INFO - Success rate: 7.7%
+2025-09-21 19:42:31 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 19:42:31 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 19:42:31 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 19:42:31 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 19:55:14 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 19:55:14 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 19:55:14 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 19:55:14 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 19:55:14 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 19:55:14 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 19:55:14 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 19:55:14 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 19:55:17 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 19:55:17 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 19:55:17 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 19:55:17 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 19:55:19 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 19:55:19 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 19:56:33 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 19:56:33 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 19:56:34 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 19:56:34 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 19:56:34 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 19:56:34 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 19:56:34 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 19:56:57 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 19:59:33 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 19:59:37 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 20:00:45 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 2/8
+2025-09-21 20:00:46 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-21 20:01:03 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 3/8
+2025-09-21 20:01:04 - ClipScutterAutomation - INFO -   Creating clip 4/8: 00:35:47-00:36:07
+2025-09-21 20:01:04 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 4/8
+2025-09-21 20:18:42 - ClipScutterAutomation - INFO -   Creating clip 5/8: 00:36:54-00:37:17
+2025-09-21 20:18:42 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 5/8
+2025-09-21 20:18:43 - ClipScutterAutomation - INFO -   Creating clip 6/8: 00:39:05-00:39:25
+2025-09-21 20:18:43 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 6/8
+2025-09-21 20:18:44 - ClipScutterAutomation - INFO -   Creating clip 7/8: 00:45:14-00:45:34
+2025-09-21 20:18:44 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 7/8
+2025-09-21 20:18:45 - ClipScutterAutomation - INFO -   Creating clip 8/8: 00:47:35-00:47:55
+2025-09-21 20:18:45 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 8/8
+2025-09-21 20:18:46 - ClipScutterAutomation - INFO - Completed URL 1/2: 1/8 clips created
+2025-09-21 20:18:46 - ClipScutterAutomation - INFO - Processing URL 2/2: https://youtu.be/skVd7mI6MQU
+2025-09-21 20:18:46 - ClipScutterAutomation - INFO -   18 clips to create
+2025-09-21 20:18:46 - ClipScutterAutomation - INFO - Loading new YouTube URL - returning to homepage
+2025-09-21 20:34:03 - ClipScutterAutomation - ERROR - Failed to input YouTube URL: https://youtu.be/skVd7mI6MQU
+2025-09-21 20:34:03 - ClipScutterAutomation - INFO - Clip creation completed: 1/26 clips created
+2025-09-21 20:34:03 - ClipScutterAutomation - INFO - Starting clip download process...
+2025-09-21 20:34:03 - ClipScutterAutomation - ERROR - Download process failed: Failed to navigate to clips page
+2025-09-21 20:34:03 - ClipScutterAutomation - WARNING - Clip download failed, but automation completed
+2025-09-21 20:34:03 - ClipScutterAutomation - INFO - Automation completed successfully!
+2025-09-21 20:34:03 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 20:34:03 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 20:34:03 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 20:34:03 - ClipScutterAutomation - INFO - Total execution time: 2329.90 seconds (38.8 minutes)
+2025-09-21 20:34:03 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 20:34:03 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 20:34:03 - ClipScutterAutomation - INFO - Clips created successfully: 1
+2025-09-21 20:34:03 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 20:34:03 - ClipScutterAutomation - INFO - Failed clips: 7
+2025-09-21 20:34:03 - ClipScutterAutomation - INFO - Success rate: 3.8%
+2025-09-21 20:34:03 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 20:34:03 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 20:34:03 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 20:34:04 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 22:40:05 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 22:40:05 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 22:40:05 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 22:40:05 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 22:40:05 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 22:40:05 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 22:40:05 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 22:40:05 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 22:40:07 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 22:40:07 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 22:40:07 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 22:40:07 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 22:40:09 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 22:40:09 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 22:41:23 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 22:41:23 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 22:41:24 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 22:41:24 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 22:41:24 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 22:41:24 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 22:41:24 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 22:41:52 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 22:42:10 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 22:42:10 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 22:42:10 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 22:42:10 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 22:42:10 - ClipScutterAutomation - INFO - Total execution time: 125.16 seconds (2.1 minutes)
+2025-09-21 22:42:10 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 22:42:10 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 22:42:10 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 22:42:10 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 22:42:10 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 22:42:10 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 22:42:10 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 22:42:10 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 22:42:10 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 22:42:10 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 22:48:02 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 22:48:02 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 22:48:02 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 22:48:02 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 22:48:02 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 22:48:02 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 22:48:02 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 22:48:02 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 22:48:04 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 22:48:04 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 22:48:04 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 22:48:04 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 22:48:06 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 22:48:06 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 22:49:20 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 22:49:20 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 22:49:21 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 22:49:21 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 22:49:21 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 22:49:21 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 22:49:21 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 22:49:45 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 22:50:57 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 22:50:57 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 22:50:57 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 22:50:57 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 22:50:57 - ClipScutterAutomation - INFO - Total execution time: 175.83 seconds (2.9 minutes)
+2025-09-21 22:50:57 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 22:50:57 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 22:50:57 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 22:50:57 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 22:50:57 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 22:50:57 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 22:50:57 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 22:50:57 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 22:50:57 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 22:50:57 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 23:21:35 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 23:21:35 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 23:21:35 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 23:21:35 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 23:21:35 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 23:21:35 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 23:21:35 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 23:21:35 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 23:21:38 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 23:21:38 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 23:21:38 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 23:21:38 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 23:21:40 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 23:21:40 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 23:22:54 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 23:22:54 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 23:22:55 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 23:22:55 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 23:22:55 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 23:22:55 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 23:22:55 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 23:23:19 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 23:25:55 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 23:25:59 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 23:26:41 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 2/8
+2025-09-21 23:26:42 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-21 23:27:09 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 23:27:09 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:27:09 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 23:27:09 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:27:09 - ClipScutterAutomation - INFO - Total execution time: 333.90 seconds (5.6 minutes)
+2025-09-21 23:27:09 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 23:27:09 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 23:27:09 - ClipScutterAutomation - INFO - Clips created successfully: 1
+2025-09-21 23:27:09 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 23:27:09 - ClipScutterAutomation - INFO - Failed clips: 1
+2025-09-21 23:27:09 - ClipScutterAutomation - INFO - Success rate: 3.8%
+2025-09-21 23:27:09 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 23:27:09 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 23:27:09 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:27:09 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 23:34:05 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 23:34:05 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 23:34:05 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 23:34:05 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 23:34:05 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 23:34:05 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 23:34:05 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 23:34:05 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 23:34:08 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 23:34:08 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 23:34:08 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 23:34:08 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 23:34:10 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 23:34:10 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 23:35:24 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 23:35:24 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 23:35:25 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 23:35:25 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 23:35:25 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 23:35:25 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 23:35:25 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 23:35:48 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 23:38:24 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 23:38:28 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 23:41:38 - ClipScutterAutomation - INFO -   ✓ Clip 2/8 created successfully
+2025-09-21 23:41:42 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-21 23:42:11 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 23:42:11 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:42:11 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 23:42:11 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:42:11 - ClipScutterAutomation - INFO - Total execution time: 485.74 seconds (8.1 minutes)
+2025-09-21 23:42:11 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 23:42:11 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 23:42:11 - ClipScutterAutomation - INFO - Clips created successfully: 2
+2025-09-21 23:42:11 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 23:42:11 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 23:42:11 - ClipScutterAutomation - INFO - Success rate: 7.7%
+2025-09-21 23:42:11 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 23:42:11 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 23:42:11 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:42:11 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 23:47:28 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 23:47:28 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 23:47:28 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 23:47:28 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 23:47:28 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 23:47:28 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 23:47:28 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 23:47:28 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 23:47:31 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 23:47:31 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 23:47:31 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 23:47:31 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 23:47:34 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 23:47:34 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 23:48:48 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 23:48:48 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 23:48:49 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 23:48:49 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 23:48:49 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 23:48:49 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 23:48:49 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 23:48:55 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 23:48:55 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:48:55 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 23:48:55 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:48:55 - ClipScutterAutomation - INFO - Total execution time: 86.50 seconds (1.4 minutes)
+2025-09-21 23:48:55 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 23:48:55 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 23:48:55 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 23:48:55 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 23:48:55 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 23:48:55 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 23:48:55 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 23:48:55 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 23:48:55 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:48:55 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 23:49:20 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 23:49:20 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 23:49:20 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 23:49:20 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 23:49:20 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 23:49:20 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 23:49:20 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 23:49:20 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 23:49:24 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 23:49:24 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 23:49:24 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 23:49:24 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 23:49:26 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 23:49:26 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 23:50:41 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 23:50:41 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 23:50:42 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 23:50:42 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 23:50:42 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 23:50:42 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 23:50:42 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 23:51:05 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 23:51:10 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 23:51:14 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 23:51:30 - ClipScutterAutomation - INFO -   ✓ Clip 2/8 created successfully
+2025-09-21 23:51:34 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-21 23:51:52 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 3/8
+2025-09-21 23:51:53 - ClipScutterAutomation - INFO -   Creating clip 4/8: 00:35:47-00:36:07
+2025-09-21 23:51:55 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 4/8
+2025-09-21 23:51:56 - ClipScutterAutomation - INFO -   Creating clip 5/8: 00:36:54-00:37:17
+2025-09-21 23:51:58 - ClipScutterAutomation - ERROR -   ✗ Failed to create clip 5/8
+2025-09-21 23:51:59 - ClipScutterAutomation - INFO -   Creating clip 6/8: 00:39:05-00:39:25
+2025-09-21 23:51:59 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 23:51:59 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:51:59 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 23:51:59 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:51:59 - ClipScutterAutomation - INFO - Total execution time: 158.60 seconds (2.6 minutes)
+2025-09-21 23:51:59 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 23:51:59 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 23:51:59 - ClipScutterAutomation - INFO - Clips created successfully: 2
+2025-09-21 23:51:59 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 23:51:59 - ClipScutterAutomation - INFO - Failed clips: 3
+2025-09-21 23:51:59 - ClipScutterAutomation - INFO - Success rate: 7.7%
+2025-09-21 23:51:59 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 23:51:59 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 23:51:59 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:51:59 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 23:54:10 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 23:54:10 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 23:54:10 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 23:54:10 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 23:54:10 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 23:54:10 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 23:54:10 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 23:54:10 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 23:54:13 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 23:54:13 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 23:54:13 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 23:54:13 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 23:54:15 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 23:54:15 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 23:54:22 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 23:54:22 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:54:22 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 23:54:22 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:54:22 - ClipScutterAutomation - INFO - Total execution time: 11.44 seconds (0.2 minutes)
+2025-09-21 23:54:22 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 23:54:22 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 23:54:22 - ClipScutterAutomation - INFO - Clips created successfully: 0
+2025-09-21 23:54:22 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 23:54:22 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 23:54:22 - ClipScutterAutomation - INFO - Success rate: 0.0%
+2025-09-21 23:54:22 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 23:54:22 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 23:54:22 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:54:22 - ClipScutterAutomation - INFO - WebDriver closed successfully
+2025-09-21 23:54:32 - ClipScutterAutomation - INFO - Starting ClipScutter Automation
+2025-09-21 23:54:32 - ClipScutterAutomation - INFO - Configuration: type
+2025-09-21 23:54:32 - ClipScutterAutomation - INFO - Reading CSV file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/clip_ranges.csv
+2025-09-21 23:54:32 - ClipScutterAutomation - INFO - Successfully loaded 26 clips from 2 unique URLs
+2025-09-21 23:54:32 - ClipScutterAutomation - INFO - Total estimated duration: 00:10:22
+2025-09-21 23:54:32 - ClipScutterAutomation - INFO - Setting up Chrome WebDriver...
+2025-09-21 23:54:32 - ClipScutterAutomation - INFO - Running in visible browser mode (headless disabled)
+2025-09-21 23:54:32 - ClipScutterAutomation - INFO - Setting up ChromeDriver using webdriver-manager...
+2025-09-21 23:54:34 - ClipScutterAutomation - INFO - WebDriver setup completed successfully
+2025-09-21 23:54:34 - ClipScutterAutomation - INFO - Initializing automation modules...
+2025-09-21 23:54:34 - ClipScutterAutomation - INFO - All modules initialized successfully
+2025-09-21 23:54:34 - ClipScutterAutomation - INFO - 🔐 Step 1: Navigating directly to login page...
+2025-09-21 23:54:37 - ClipScutterAutomation - INFO - 🔑 Step 2: Performing login...
+2025-09-21 23:54:37 - ClipScutterAutomation - INFO - Starting login process...
+2025-09-21 23:55:51 - ClipScutterAutomation - INFO - Login successful!
+2025-09-21 23:55:51 - ClipScutterAutomation - INFO - 🏠 Step 3: Navigating to homepage after successful login...
+2025-09-21 23:55:52 - ClipScutterAutomation - INFO - Premium trial setup disabled in config - assuming user is already logged in
+2025-09-21 23:55:52 - ClipScutterAutomation - INFO - Starting to process 2 unique YouTube URLs
+2025-09-21 23:55:52 - ClipScutterAutomation - INFO - Processing URL 1/2: https://youtu.be/USOQid7YJ2s
+2025-09-21 23:55:52 - ClipScutterAutomation - INFO -   8 clips to create
+2025-09-21 23:55:52 - ClipScutterAutomation - INFO - Loading first YouTube URL
+2025-09-21 23:56:16 - ClipScutterAutomation - INFO -   Creating clip 1/8: 00:05:34-00:06:18
+2025-09-21 23:56:31 - ClipScutterAutomation - INFO -   ✓ Clip 1/8 created successfully
+2025-09-21 23:56:35 - ClipScutterAutomation - INFO -   Creating clip 2/8: 00:07:12-00:08:08
+2025-09-21 23:56:55 - ClipScutterAutomation - INFO -   ✓ Clip 2/8 created successfully
+2025-09-21 23:56:59 - ClipScutterAutomation - INFO -   Creating clip 3/8: 00:29:44-00:30:04
+2025-09-21 23:57:18 - ClipScutterAutomation - INFO -   ✓ Clip 3/8 created successfully
+2025-09-21 23:57:22 - ClipScutterAutomation - INFO - Automation interrupted by user
+2025-09-21 23:57:22 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:57:22 - ClipScutterAutomation - INFO - AUTOMATION SUMMARY
+2025-09-21 23:57:22 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:57:22 - ClipScutterAutomation - INFO - Total execution time: 169.75 seconds (2.8 minutes)
+2025-09-21 23:57:22 - ClipScutterAutomation - INFO - Total clips in CSV: 26
+2025-09-21 23:57:22 - ClipScutterAutomation - INFO - Unique YouTube URLs: 2
+2025-09-21 23:57:22 - ClipScutterAutomation - INFO - Clips created successfully: 3
+2025-09-21 23:57:22 - ClipScutterAutomation - INFO - Clips downloaded: 0
+2025-09-21 23:57:22 - ClipScutterAutomation - INFO - Failed clips: 0
+2025-09-21 23:57:22 - ClipScutterAutomation - INFO - Success rate: 11.5%
+2025-09-21 23:57:22 - ClipScutterAutomation - INFO - Downloads directory: /Users/rahul/Desktop/FREELANCING/20$_clipcut/downloads
+2025-09-21 23:57:22 - ClipScutterAutomation - INFO - Log file: /Users/rahul/Desktop/FREELANCING/20$_clipcut/logs/clipscutter_automation.log
+2025-09-21 23:57:22 - ClipScutterAutomation - INFO - ============================================================
+2025-09-21 23:57:22 - ClipScutterAutomation - INFO - WebDriver closed successfully
